@@ -17,7 +17,7 @@ body {
   vertical-align: middle;
 }
 .head-box h2 span {
-  font-size: 18px;
+  font-size: 0.36rem;
   color: #fff;
 }
 /*￥banner*/
@@ -63,6 +63,7 @@ body {
   height: 1.55rem;
   background: #fff;
   border-radius: 10px;
+  box-shadow: 0 5px 20px 1px #ccc;
 }
 .xxxm-box .xxxm-li figcaption img {
   width: 0.9rem;
@@ -74,7 +75,7 @@ body {
 }
 .xxxm-box .xxxm-li h5 a {
   color: #000;
-  font-size: 10px;
+  font-size: 0.2rem;
   text-decoration: none;
   overflow: hidden;
   white-space: nowrap;
@@ -91,7 +92,7 @@ body {
   margin: 0;
   text-align: center;
   line-height: 0.65rem;
-  font-size: 12px;
+  font-size: 0.24rem;
   color: #0176BC;
   border-bottom: 1px solid #F5F6FA;
   border-top: 1px solid #F5F6FA;
@@ -124,7 +125,7 @@ body {
   float: left;
 }
 .fwtx-box .fwtx-middle .fwtx-middle-left .left h4 {
-  font-size: 12px;
+  font-size: 0.24rem;
   color: #000;
   margin: 0.06rem 0 0 0;
   padding: 0;
@@ -133,7 +134,7 @@ body {
   text-overflow: ellipsis;
 }
 .fwtx-box .fwtx-middle .fwtx-middle-left .left p {
-  font-size: 10px;
+  font-size: 0.2rem;
   color: #B0B0B0;
   margin: 0.18rem 0 0 0 ;
   white-space: nowrap;
@@ -164,7 +165,7 @@ body {
   float: left;
 }
 .fwtx-box .fwtx-middle .fwtx-middle-right .left h4 {
-  font-size: 12px;
+  font-size: 0.24rem;
   color: #000;
   margin: 0.06rem 0 0 0;
   padding: 0;
@@ -173,7 +174,7 @@ body {
   text-overflow: ellipsis;
 }
 .fwtx-box .fwtx-middle .fwtx-middle-right .left p {
-  font-size: 10px;
+  font-size: 0.2rem;
   color: #B0B0B0;
   margin: 0.18rem 0 0 0 ;
   white-space: nowrap;
@@ -221,18 +222,18 @@ body {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  font-size: 12px;
+  font-size: 0.24rem;
   color: #000;
 }
 .fwtx-box .fwtx-bottom .fwtx-list .right p {
   margin: 0.09rem 0 0 0 ;
-  font-size: 10px;
+  font-size: 0.2rem;
   color: #B0B0B0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
-/*￥练习我们*/
+/*￥联系我们*/
 .lxwm-box {
   margin-top: 0.19rem;
   width: 100%;
@@ -250,7 +251,7 @@ body {
 }
 .lxwm-box .left a {
   color: #000;
-  font-size: 12px;
+  font-size: 0.24rem;
   text-decoration: none;
 }
 .lxwm-box .left a span {
@@ -269,7 +270,7 @@ body {
 }
 .lxwm-box .middle a {
   color: #fff;
-  font-size: 12px;
+  font-size: 0.24rem;
   text-decoration: none;
 }
 .lxwm-box .middle .jx-box {
@@ -280,6 +281,7 @@ body {
   border-radius: 0.1rem;
   text-align: center;
   line-height: 0.82rem;
+  box-shadow: 0 0 20px 2px #FF7E00;
 }
 .lxwm-box .middle .jx-box img {
   height: 0.34rem;
@@ -300,7 +302,7 @@ body {
 }
 .lxwm-box .right a {
   color: #000;
-  font-size: 12px;
+  font-size: 0.24rem;
   text-decoration: none;
 }
 .lxwm-box .right a span {
